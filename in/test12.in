@@ -1,0 +1,11 @@
+(
+    {a, b, c},
+    {'a', 'b'},
+    {
+        a'a'->b, #blablab
+        b'b'->#blablablab
+        c
+    },
+    a,
+    {c}
+)

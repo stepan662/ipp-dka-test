@@ -1,0 +1,8 @@
+run_test 'out/test20.out' "0" '--analyze-string=<= --input=../ipp-dka-test/in/test20.in' 'Test1'
+run_test 'out/test21.out' "0" '--analyze-string=:= --input=../ipp-dka-test/in/test21.in' 'Test2'
+run_test 'out/test22.out' "0" '--analyze-string=:== --input=../ipp-dka-test/in/test22.in' 'Test3'
+run_test 'out/test23.out' "0" '--analyze-string=abc --input=../ipp-dka-test/in/test23.in' 'Test4'
+run_test 'out/test24.out' "0" '--analyze-string=ab --input=../ipp-dka-test/in/test24.in' 'Test5'
+run_test 'out/test25.out' "0" '--analyze-string=ac --input=../ipp-dka-test/in/test25.in' 'Test6'
+run_test 'out/test26.out' "0" '--analyze-string= --input=../ipp-dka-test/in/test26.in' 'Test7'
+run_test 'out/test27.out' "0" '--analyze-string= --input=../ipp-dka-test/in/test27.in' 'Test8'
