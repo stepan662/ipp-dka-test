@@ -21,7 +21,7 @@ ipp-dka
     * `SCRIPT` na relativni adresu k vašemu projektu (např. `../ipp-dka/dka.py`)
     * `INTERPRETER` na `python3` (php by mělo taky fungovat)
 3. Spusťe ve složce s testy příkazem `./test.sh`
-4. Jsou zahrnuty i testy na zkrácené parametry a rozšíření STR, což není povinné
+4. Jsou zahrnuty i testy na rozšíření STR, což není povinné
 
 ### Co dělat když najdu chybu v testu? ###
 Projděte nejdříve prosím:
