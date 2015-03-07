@@ -18,7 +18,7 @@ ipp-dka
 
 1. Naklonujte si testy do složky vedle vašeho projektu, struktura složek je znázorněna výše
 2. V souboru `test.sh` nastavte proměnné:
-    * `SCRIPT` na relativni adresu k vašemu projektu (např. `../ipp-syn/dka.py`)
+    * `SCRIPT` na relativni adresu k vašemu projektu (např. `../ipp-dka/dka.py`)
     * `INTERPRETER` na `python3` (php by mělo taky fungovat)
 3. Spusťe ve složce s testy příkazem `./test.sh`
 4. Jsou zahrnuty i testy na zkrácené parametry a rozšíření STR, což není povinné
